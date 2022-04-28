@@ -16,8 +16,8 @@ Results:
 
 1. Raw Bayer grid 
 
-![](images/raw image.jpeg)
+![Raw Bayer grid](images/raw_image.png)
 
 2. RGB construction
 
-![RGB construction](images/RGB image.PNG)
+![RGB construction](images/RGB_image.png)
